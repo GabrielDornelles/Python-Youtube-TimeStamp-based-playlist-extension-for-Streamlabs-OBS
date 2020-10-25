@@ -8,6 +8,7 @@ Then run the following on prompt or just execute the run.py.
 ```bash
 python run.py
 ```
+Make sure you download the webdriver(chromedriver win32) if using windows (if you're using other OS then download it properly) and extract it on the same folder with run.py
 
 # What it does?
 At run.py you can insert and start URL, but after the webdriver starts you can pretty much acess any playlist you want.
