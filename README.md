@@ -30,4 +30,4 @@ in the end it will look something like that:
 you can find a clip of it running right here:
 https://www.twitch.tv/nanohanana/clip/CalmPlausibleEndiveUnSane
 
-__You can use it on OBS Studio as well, the text source allow you to read a file.
+You can use it on OBS Studio as well, the text source allow you to read a file.
