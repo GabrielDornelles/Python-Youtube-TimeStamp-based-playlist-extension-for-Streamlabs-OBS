@@ -10,7 +10,7 @@ python run.py
 ```
 Make sure you download the webdriver(chromedriver win32) if using windows (if you're using other OS then download it properly) and extract it on the same folder with run.py.
 
-#IMPORTANT
+# IMPORTANT
 If you're on Linux/MacOS make sure to remove the ".exe" in the __chrome_path__ variable.
 
 # What it does?
